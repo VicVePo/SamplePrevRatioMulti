@@ -17,3 +17,5 @@ RoxygenNote: 7.3.2
 Imports: 
     stats
 LazyData: true
+URL: https://github.com/VicVePo/SamplePrevRatioMulti
+BugReports: https://github.com/VicVePo/SamplePrevRatioMulti/issues
