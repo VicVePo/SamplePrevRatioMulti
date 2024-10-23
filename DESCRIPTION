@@ -1,0 +1,19 @@
+Package: SamplePrevRatioMulti
+Title: Calculo de Tamano Muestral para Estudios de Razon de Prevalencia
+Version: 0.1.0
+Authors@R: 
+    person("Victor J.", "Vera-Ponce", email = "victor_jvp@hotmail.com",
+           role = c("aut", "cre"))
+Description: Este paquete proporciona herramientas para calcular el tamaño muestral en estudios
+    que utilizan razón de prevalencias como medida de asociación, considerando análisis
+    multivariables y aspectos logísticos del estudio. Incluye funciones para:
+    * Cálculo del tamaño muestral considerando que se van a incluir covariables al modelo
+    * Evaluación de la potencia estadística
+    * Planificación logística del estudio
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    stats
+LazyData: true
